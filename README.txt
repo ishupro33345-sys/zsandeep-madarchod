@@ -1,0 +1,1 @@
+DISCORD_BOT_TOKEN=paste_your_bot_token_here
